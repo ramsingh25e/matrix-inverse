@@ -17,7 +17,7 @@ The program takes matrix elements as command-line arguments and computes the inv
 5. ## Compilation
 
 gcc matrix.c -o matrix
--to compile this you need to have cs50 library installed.
+(to compile this you need to have cs50 library installed.)
 ## Execution
 
 ./matrix 1 2 3 1 0 0 3 4 5 0 1 0 4 3 5 0 0 1
